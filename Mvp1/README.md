@@ -8,6 +8,7 @@ This project analyzes job opportunities data, focusing on required skills and jo
 
 - **Skill Analysis**: Analyzes the most in-demand skills across different job titles.
 - **Visualization**: Generates word clouds to visualize the frequency of skills and other key data points.
+- **Job Prediction**: Predicts job titles based on input skills using a trained machine learning model.
 
 ---
 
@@ -17,7 +18,6 @@ The dataset used for this project is the **Job opportunities.csv**, which contai
 
 - `Required Skills:`: Skills needed for various job roles.
 - `Job Title`: Titles of job opportunities.
-- `Job Prediction`: Predicts job titles based on input skills using a trained machine learning model.
 
 ---
 
